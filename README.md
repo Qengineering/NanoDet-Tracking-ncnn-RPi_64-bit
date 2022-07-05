@@ -1,4 +1,4 @@
-# NanoDet Byte Tracking
+# NanoDet with Tracking
 
 https://user-images.githubusercontent.com/44409029/177167373-69b4ba96-aa0b-4b97-a2db-b8ab497406be.mp4
 
